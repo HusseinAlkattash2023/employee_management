@@ -1,0 +1,29 @@
+[
+    {
+        "id":1,
+        "name":"John Doe",
+        "avatar": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "email":"john@gmail.com",
+        "salary":"25000",
+        "date":"2023-02-04",
+        "status":"Active"
+    },
+    {
+        "id":2,
+        "name":"Ali mohamed",
+        "avatar": "https://st.depositphotos.com/1269204/1219/i/600/depositphotos_12196477-stock-photo-smiling-men-isolated-on-the.jpg",
+        "email":"ali@gmail.com",
+        "salary":"21000",
+        "date":"2021-02-04",
+        "status":"inactive"
+    },
+    {
+        "id":1,
+        "name":"Kevin pop",
+        "avatar": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cGVyc29ufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+        "email":"kevin@gmail.com",
+        "salary":"28000",
+        "date":"2022-04-04",
+        "status":"Active"
+    }
+]
